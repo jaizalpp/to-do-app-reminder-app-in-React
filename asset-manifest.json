@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/to-do-app-reminder-app-in-React/static/css/main.8f92312a.css",
+    "main.js": "/to-do-app-reminder-app-in-React/static/js/main.e78ea83a.js",
+    "static/js/453.937a0da3.chunk.js": "/to-do-app-reminder-app-in-React/static/js/453.937a0da3.chunk.js",
+    "index.html": "/to-do-app-reminder-app-in-React/index.html",
+    "main.8f92312a.css.map": "/to-do-app-reminder-app-in-React/static/css/main.8f92312a.css.map",
+    "main.e78ea83a.js.map": "/to-do-app-reminder-app-in-React/static/js/main.e78ea83a.js.map",
+    "453.937a0da3.chunk.js.map": "/to-do-app-reminder-app-in-React/static/js/453.937a0da3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f92312a.css",
+    "static/js/main.e78ea83a.js"
+  ]
+}
